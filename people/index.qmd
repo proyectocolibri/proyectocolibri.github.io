@@ -1,0 +1,195 @@
+---
+title: "index"
+format:
+  html:
+    css: styles.css
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+# Quiénes somos
+
+Esta página describe al equipo y colaboradores del **Proyecto Colibrí** y su trabajo en investigación de cuidados al final de la vida y cáncer, desde diversas disciplinas académicas e institucionales.
+
+## 👩‍🔬 Equipo Principal
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/esther_de_vries.jpeg){fig-alt="Esther de Vries" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Esther de Vries, PhD
+
+Profesora asociada de Epidemiología Clínica con interés en investigación en cáncer y cuidados paliativos, particularmente en decisiones al final de la vida. Coordina el programa de Doctorado en Epidemiología Clínica en la Pontificia Universidad Javeriana.
+
+**Contacto:** [estherdevries@javeriana.edu.co](mailto:estherdevries@javeriana.edu.co)  
+**ORCID:** [https://orcid.org/0000-0002-5560-2258](https://orcid.org/0000-0002-5560-2258)
+:::
+:::::
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/joanne_reid.jpg){fig-alt="Joanne Reid" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Joanne Reid, PhD
+
+Profesora de Cáncer y Cuidados Paliativos en Queen’s University Belfast. Ha liderado estudios nacionales e internacionales que han contribuido al desarrollo de guías clínicas basadas en evidencia.
+
+**Contacto:** [j.reid@qub.ac.uk](mailto:j.reid@qub.ac.uk)  
+**ORCID:** [https://orcid.org/0000-0001-5820-862X](https://orcid.org/0000-0001-5820-862X)
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/gillian_prue.jpg){fig-alt="Gillian Prue" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Gillian Prue, PhD
+
+Profesora en Enfermedades Crónicas en Queen’s University Belfast. Su trabajo se centra en intervenciones complejas en salud, evaluación de programas y metodologías colaborativas en cuidados del cáncer y final de la vida.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/sam_ahmedzai.jpg){fig-alt="Sam Ahmedzai" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Sam H. Ahmedzai, MD, FRCP
+
+Profesor Emérito de la University of Sheffield. Reconocido por su contribución clínica y académica al desarrollo de los cuidados paliativos, manejo de síntomas y evaluación de calidad de vida.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/tracey_mcconnell.jpg){fig-alt="Tracey McConnell" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Tracey McConnell, PhD
+
+Investigadora sénior Marie Curie en Queen’s University Belfast. Especialista en métodos realistas para evaluar e implementar servicios complejos de atención en salud.
+:::
+:::::
+
+---
+
+## Colaboración latinoamericana
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/jose_calvache.jpg){fig-alt="Jose A. Calvache" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Jose A. Calvache, MD, PhD
+
+Especialista en Anestesiología, Medicina del Dolor y Cuidados Paliativos. Profesor universitario con formación en epidemiología clínica y metodología de la investigación, enfocado en síntesis de evidencia y medicina basada en evidencia.
+
+**ORCID:** [https://orcid.org/0000-0001-9421-3717](https://orcid.org/0000-0001-9421-3717)
+:::
+:::::
+
+---
+
+## Investigación y apoyo académico
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/socorro_moreno.jpg){fig-alt="Socorro Moreno" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Socorro Moreno, MSc
+
+Profesora asistente de Epidemiología Clínica con interés en determinantes psicológicos del bienestar en enfermedades crónicas y en métodos psicométricos aplicados a investigación en salud.
+:::
+:::::
+
+---
+
+## Estudiantes y colaboradores
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/cindy_mendieta.jpg){fig-alt="Cindy Mendieta" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Cindy Mendieta, cMSc
+
+Nutricionista y magíster, enfocada en la validación del instrumento SPARC para la evaluación de necesidades en cuidados paliativos.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/lucia_arroyo.jpg){fig-alt="Lucía Inés Arroyo" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Lucía Inés Arroyo, MPH
+
+Fonoaudióloga y magíster en Salud Pública. Investiga percepciones y experiencias relacionadas con el final de la vida desde la perspectiva de pacientes y profesionales.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/mauricio_medina.jpg){fig-alt="Mauricio Medina-Rico" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Mauricio Medina-Rico, MD, MSc
+
+Médico urólogo con experiencia en investigación sobre preferencias, valores y deseos de pacientes con cáncer en el contexto del final de la vida.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/angelica_arango.jpg){fig-alt="Angélica María Arango" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Angélica María Arango, MSc
+
+Bacterióloga y epidemióloga clínica con experiencia en investigación oncológica y factores asociados al sufrimiento en pacientes con cáncer.
+:::
+:::::
+
+---
+
+::::: columns
+::: {.column width="30%"}
+![](/img/team/angela_luna.jpg){fig-alt="Angela Luna Meza" loading="lazy"}
+:::
+
+::: {.column width="70%"}
+### Angela Luna Meza, MD, MSc
+
+Médica con interés en oncología, comunicación médico-paciente y barreras culturales en la atención en salud.
+:::
+:::::
+
+---

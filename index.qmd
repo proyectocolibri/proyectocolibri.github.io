@@ -1,0 +1,50 @@
+---
+title: "Proyecto Colibrí"
+about:
+    template: trestles
+    links:
+        - icon: twitter
+          text: X - Twitter
+          url: https://x.com/ProyectoColibr3
+        - icon: facebook
+          text: Facebook
+          url: https://www.facebook.com/proyectocolibricolombia/
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:proyectocolibri@unicauca.edu.co
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?hl=es&user=m67uDzwAAAAJ
+image: img/colibri-logo.jpg
+comments: false
+---
+
+```{=html}
+<script type='application/ld+json'>
+{"@context":"http://www.schema.org","@type":"person","name":"Proyecto Colibrí","jobTitle":"Principal, AI","height":"74 inches","gender":"male","description":"Chris von Csefalvay is a computational epidemiologist and data scientist working at the intersection of AI/ML, computational dynamics and public health. He is the author of Computational Modeling of Infectious Disease and a number of research papers.","url":"https://chrisvoncsefalvay.com","image":"https://chrisvoncsefalvay.com/img/IMG_5986.jpeg","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","postalCode":"80204","addressCountry":"United States"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University of Oxford","sameAs":"https://en.wikipedia.org/wiki/University_of_Oxford"},{"@type":"CollegeOrUniversity","name":"Cardiff University","sameAs":"https://en.wikipedia.org/wiki/Cardiff_University"}],"worksFor":[{"@type":"Organization","name":"HCLTech"}],"birthDate":"1986-07-15","birthPlace":"Budapest, Hungary","memberOf":[{"@type":"Organization","name":"Royal Society for Public Health"},{"@type":"Organization","name":"TOPRA"},{"@type":"Organization","name":"IEEE"}],"nationality":[{"@type":"Country","name":"United Kingdom"},{"@type":"Country","name":"Hungary"}]}
+</script>
+```
+
+## La Leyenda del Colibrí
+
+*Cuenta la leyenda que cuando a un hombre o mujer le llega la hora de su muerte, su alma se desprende de su cuerpo y vuela libremente hasta posarse en una flor. Allí, oculta y a salvo, espera, viendo pasar los días y las noches, mojándose con la lluvia y protegiéndose del viento con cada pétalo que la resguarda. Dicen que en la flor, el alma se purifica, se perfuma, se conecta con la tierra que la ha visto nacer.*
+
+*Pero un día llega a ella un colibrí y la descubre entre los pétalos. Si es la elegida y le ha llegado el momento, amorosamente la recoge y la lleva sobre su cuerpo volando hacia el paraíso. Ésa, según cuentan los más sabios de los pueblos más antiguos, es la razón por la cual los colibríes saltan de flor en flor y se alejan volando rápidamente hasta perderse entre las nubes.*
+
+![](img/leyenda_colibri.png)
+
+## El Proyecto Colibrí
+
+## Decisiones médicas, de pacientes y familiares o cuidadores en el final de la vida
+
+Bienvenidos al sitio web del **Proyecto Colibrí**. Nuestro objetivo es estudiar y describir las decisiones médicas, de pacientes y familiares en el final de la vida, enfocándonos en enfermedades crónicas y oncológicas en Colombia.
+
+## Articulos destacados
+
+**Mendieta CV, Calvache JA, Rondón MA, Rincón-Rodríguez CJ, Ahmedzai SH, de Vries E (2024). Validation of the Spanish translation Sheffield Profile for Assessment and Referral for Care (SPARC-Sp) at the Hospital Universitario San Jose of Popayan, Colombia.** _Palliative and Supportive Care_ 2024;1-12. doi:[10.1017/S1478951524000476](https://doi.org/10.1017/S1478951524000476)
+
+**de Vries E, Leal Arenas FA, van der Heide A, et al (2021). Medical decisions concerning the end of life for cancer patients in three Colombian hospitals – a survey study.** _BMC Palliat Care_ 2021;**20**:161. doi:[10.1186/s12904-021-00853-9](https://doi.org/10.1186/s12904-021-00853-9)
+
+## Cartilla paso a paso, mi plan de viaje a traves del dolor
+
+Una guia para planificar en el fin de la vida y hablar con tus seres queridos sobre tus deseos.
+
+[Descargar la cartilla aqui](https://drive.google.com/file/d/1nnovZeaRdMRem04cdV63Lbh9Z3GipoJb/view)
