@@ -128,7 +128,7 @@ window.Quarto = {
 };
 </script>
 
-<meta property="og:title" content="Proyecto Colibrí - In the media">
+<link rel="alternate" type="application/rss+xml" title="Proyecto Colibrí" href="index.xml" data-external="1"><meta property="og:title" content="Proyecto Colibrí - In the media">
 <meta property="og:site_name" content="Proyecto Colibrí">
 <meta name="twitter:title" content="Proyecto Colibrí - In the media">
 <meta name="twitter:card" content="summary">
@@ -398,7 +398,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/github\.com\/proyectocolibri\/proyectocolibri\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

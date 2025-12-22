@@ -73,11 +73,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Proyecto Colibrí - Koronavírus: az USA-ban már használják, itthon még nem kellett a magyar cég adatelemző programja">
 <meta property="og:description" content="Commenting on our work on the COVID-19 data set and the relevance of data in a pandemic.">
-<meta property="og:image" content="header.webp">
+<meta property="og:image" content="https://github.com/proyectocolibri/proyectocolibri.github.io/media/euronews-covid/header.webp">
 <meta property="og:site_name" content="Proyecto Colibrí">
 <meta name="twitter:title" content="Proyecto Colibrí - Koronavírus: az USA-ban már használják, itthon még nem kellett a magyar cég adatelemző programja">
 <meta name="twitter:description" content="Commenting on our work on the COVID-19 data set and the relevance of data in a pandemic.">
-<meta name="twitter:image" content="header.webp">
+<meta name="twitter:image" content="https://github.com/proyectocolibri/proyectocolibri.github.io/media/euronews-covid/header.webp">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -278,7 +278,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/github\.com\/proyectocolibri\/proyectocolibri\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
