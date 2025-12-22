@@ -11,6 +11,7 @@ resources:
 website:
   title: "Proyecto Colibrí"
   description: "Sitio web del Proyecto Colibrí"
+  site-url: https://github.com/proyectocolibri/proyectocolibri.github.io
   navbar:
     left:
       - href: index.qmd
