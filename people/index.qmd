@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Nuestro equipo"
 format:
   html:
     css: styles.css
@@ -16,7 +16,7 @@ Esta página describe al equipo y colaboradores del **Proyecto Colibrí** y su t
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/esther_de_vries.jpeg){fig-alt="Esther de Vries" loading="lazy"}
+![](/img/team/esther.png){fig-alt="Esther de Vries" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -31,7 +31,7 @@ Profesora asociada de Epidemiología Clínica con interés en investigación en 
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/joanne_reid.jpg){fig-alt="Joanne Reid" loading="lazy"}
+![](/img/team/joanne.png){fig-alt="Joanne Reid" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -48,7 +48,7 @@ Profesora de Cáncer y Cuidados Paliativos en Queen’s University Belfast. Ha l
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/gillian_prue.jpg){fig-alt="Gillian Prue" loading="lazy"}
+![](/img/team/gillian.png){fig-alt="Gillian Prue" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -62,7 +62,7 @@ Profesora en Enfermedades Crónicas en Queen’s University Belfast. Su trabajo 
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/sam_ahmedzai.jpg){fig-alt="Sam Ahmedzai" loading="lazy"}
+![](/img/team/sam.png){fig-alt="Sam Ahmedzai" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -76,7 +76,7 @@ Profesor Emérito de la University of Sheffield. Reconocido por su contribución
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/tracey_mcconnell.jpg){fig-alt="Tracey McConnell" loading="lazy"}
+![](/img/team/tracey.png){fig-alt="Tracey McConnell" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -88,11 +88,9 @@ Investigadora sénior Marie Curie en Queen’s University Belfast. Especialista 
 
 ---
 
-## Colaboración latinoamericana
-
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/jose_calvache.jpg){fig-alt="Jose A. Calvache" loading="lazy"}
+![](/img/team/jose.png){fig-alt="Jose A. Calvache" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -110,7 +108,7 @@ Especialista en Anestesiología, Medicina del Dolor y Cuidados Paliativos. Profe
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/socorro_moreno.jpg){fig-alt="Socorro Moreno" loading="lazy"}
+![](/img/team/socorro.png){fig-alt="Socorro Moreno" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -126,7 +124,7 @@ Profesora asistente de Epidemiología Clínica con interés en determinantes psi
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/cindy_mendieta.jpg){fig-alt="Cindy Mendieta" loading="lazy"}
+![](/img/team/cindy.png){fig-alt="Cindy Mendieta" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -140,7 +138,7 @@ Nutricionista y magíster, enfocada en la validación del instrumento SPARC para
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/lucia_arroyo.jpg){fig-alt="Lucía Inés Arroyo" loading="lazy"}
+![](/img/team/lucia.png){fig-alt="Lucía Inés Arroyo" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -154,7 +152,7 @@ Fonoaudióloga y magíster en Salud Pública. Investiga percepciones y experienc
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/mauricio_medina.jpg){fig-alt="Mauricio Medina-Rico" loading="lazy"}
+![](/img/team/mauricio.png){fig-alt="Mauricio Medina-Rico" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -168,7 +166,7 @@ Médico urólogo con experiencia en investigación sobre preferencias, valores y
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/angelica_arango.jpg){fig-alt="Angélica María Arango" loading="lazy"}
+![](/img/team/angelica.png){fig-alt="Angélica María Arango" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
@@ -182,7 +180,7 @@ Bacterióloga y epidemióloga clínica con experiencia en investigación oncoló
 
 ::::: columns
 ::: {.column width="30%"}
-![](/img/team/angela_luna.jpg){fig-alt="Angela Luna Meza" loading="lazy"}
+![](/img/team/angela.png){fig-alt="Angela Luna Meza" loading="lazy" width=170 height=170}
 :::
 
 ::: {.column width="70%"}
