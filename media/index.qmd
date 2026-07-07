@@ -11,3 +11,5 @@ listing:
 page-layout: full
 title-block-bannerrR: false
 ---
+
+Próximamente: apariciones del Proyecto Colibrí en medios de comunicación.

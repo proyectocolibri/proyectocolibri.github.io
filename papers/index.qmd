@@ -7,59 +7,73 @@ title: Publicaciones
 
 ## Artículos publicados
 
+Este listado se sincroniza automáticamente desde el [perfil de Google Scholar del grupo](https://scholar.google.com/citations?hl=es&user=m67uDzwAAAAJ&sortby=pubdate&view_op=list_works), en formato Vancouver, cada vez que se publica el sitio. No editar manualmente esta sección — los cambios se sobrescriben en la siguiente sincronización.
+
+<!-- scholar:auto:start -->
+
+# 2026
+
+- Torres-Cuellar JC, Pérez-Muñoz DA, Florez ID, Ahmedzai SH, de Vries E, Calvache JA. Transparency and methodological quality of clinical practice guidelines in palliative care. Scoping review. _Journal of Evaluation in Clinical Practice_. 2026;32(2):e70392. doi: [10.1111/jep.70392](https://doi.org/10.1111/jep.70392){target="_blank" rel="noopener"}
+
+- Mendieta CV, de Vries E, Calvache JA, Ahmedzai SH, Prue G, Reid J. Design, adaptation and content validation of the Sheffield Profile for Assessment and Referral for Care in Colombian Spanish (SPARC-Sp-Col). _BMC Palliative Care_. 2026. doi: [10.1186/s12904-026-02030-2](https://doi.org/10.1186/s12904-026-02030-2){target="_blank" rel="noopener"}
+
 # 2025
+
+- Calvache JA, Girón DC, Bolaños I, Bradt J, Dileo C, Klimek M. Music therapy for end-of-life care. _The Cochrane database of systematic reviews_. 2025;2025(12):CD016311. [Ver publicación](https://pmc.ncbi.nlm.nih.gov/articles/PMC12679691/){target="_blank" rel="noopener"}
+
+- Orozco-Muñoz JS, Bolaños-Bocanegra LI, Cortés-Mora C, Alejandra K. Frequency of unmet physical needs in patients with chronic oncological or cardiovascular diseases in Popayán, Colombia. _Rev. Fac. Med_. 2025;73:e117113. [Ver publicación](https://www.researchgate.net/profile/Cindy-V-Mendieta/publication/400673363_Frecuencia_de_necesidades_fisicas_no_satisfechas_identificadas_en_pacientes_con_enfermedades_oncologicas_o_cardiovasculares_cronicas_en_Popayan_Colombia/links/698c92645d60ab48356ca649/Frecuencia-de-necesidades-fisicas-no-satisfechas-identificadas-en-pacientes-con-enfermedades-oncologicas-o-cardiovasculares-cronicas-en-Popayan-Colombia.pdf){target="_blank" rel="noopener"}
 
 # 2024
 
-- de Vries E, Calvache JA, Hernández Zambrano SM (2024). Role of caregivers being trained in assisting in end of life care – Latin American perspective. _Current Opinion in Supportive & Palliative Care_ 2024. doi:[10.1097/SPC.0000000000000730](https://doi.org/10.1097/SPC.0000000000000730)
+- De Vries E, Calvache JA, Zambrano SMH. Role of caregivers being trained in assisting in end of life care–Latin American perspective. _Current opinion in supportive and palliative care_. 2024;18(4):243-248. [Ver publicación](https://journals.lww.com/co-supportiveandpalliativecare/fulltext/2024/12000/role_of_caregivers_being_trained_in_assisting_in.14.aspx?context=latestarticles){target="_blank" rel="noopener"}
 
-- McConnell T, Mendieta CV, de Vries E, et al (2024). Developing research priorities for palliative care in Colombia: a priority setting partnership approach. _BMC Palliat Care_ 2024;**23**:194. doi:[10.1186/s12904-024-01534-z](https://doi.org/10.1186/s12904-024-01534-z)
+- Mendieta CV, Calvache JA, Rondón MA, Rincón-Rodríguez CJ, Ahmedzai SH, de Vries E. Validation of the Spanish translation Sheffield profile for assessment and referral for care (SPARC-Sp) at the Hospital Universitario San Jose of Popayan, Colombia. _Palliative & Supportive Care_. 2024;22(5):1282-1293. [Ver publicación](https://www.cambridge.org/core/journals/palliative-and-supportive-care/article/validation-of-the-spanish-translation-sheffield-profile-for-assessment-and-referral-for-care-sparcsp-at-the-hospital-universitario-san-jose-of-popayan-colombia/07FB1495E0477EAB080E48BB1F991796){target="_blank" rel="noopener"}
 
-- Mendieta CV, Calvache JA, Rondón MA, Rincón-Rodríguez CJ, Ahmedzai SH, de Vries E (2024). Validation of the Spanish translation Sheffield Profile for Assessment and Referral for Care (SPARC-Sp) at the Hospital Universitario San Jose of Popayan, Colombia. _Palliative and Supportive Care_ 2024;1-12. doi:[10.1017/S1478951524000476](https://doi.org/10.1017/S1478951524000476)
-
-- Moreno S, Mendieta CV, de Vries E, et al (2024). Translation and linguistic validation of the Sheffield Profile for Assessment and Referral for Care (SPARC) to Colombian Spanish. _Palliative and Supportive Care_ 2024;1-10. doi:[10.1017/S1478951524000038](https://doi.org/10.1017/S1478951524000038)
+- McConnell T, Mendieta CV, de Vries E, Calvache JA, Prue G, Ahmedzai S, et al. Developing research priorities for palliative care in Colombia: a priority setting partnership approach. _BMC Palliative Care_. 2024;23(1):194. doi: [10.1186/s12904-024-01534-z](https://doi.org/10.1186/s12904-024-01534-z){target="_blank" rel="noopener"}
 
 # 2023
 
-- Mendieta CV, de Vries E, Gomez-Neva ME, et al (2023). Barriers and facilitators to palliative care for patients with non-curable cancer in Colombia: perspectives of allied health and social care professionals. _BMC Palliat Care_ 2023;**22**:149. doi:[10.1186/s12904-023-01267-5](https://doi.org/10.1186/s12904-023-01267-5)
+- Arango-Gutiérrez A, Moreno S, Rondón M, Arroyo LI, Ardila L, Arenas FAL, et al. Factors associated with suffering from dying in patients with cancer: a cross-sectional analytical study among bereaved caregivers. _BMC Palliative Care_. 2023;22(1):1-12. doi: [10.1186/s12904-023-01148-x](https://doi.org/10.1186/s12904-023-01148-x){target="_blank" rel="noopener"}
 
-- Moreno S, Medina-Rico M, Osorio Clavijo K, Rodríguez NA, Vicuña Jiménez VM, Calvache JA, De Vries E (2023). End of Life in Patients With Advanced Non-curable Cancer: Patient Considerations Around the Moment of Death. _OMEGA - Journal of Death and Dying_ 2023;**0**. doi:[10.1177/00302228231190240](https://doi.org/10.1177/00302228231190240)
+- Mendieta CV, de Vries E, Gomez-Neva ME, Muñoz-Escudero AM, Calvache JA, McConnell T. Barriers and facilitators to palliative care for patients with non-curable cancer in Colombia: perspectives of allied health and social care professionals. _BMC Palliative Care_. 2023;22(1):149. doi: [10.1186/s12904-023-01267-5](https://doi.org/10.1186/s12904-023-01267-5){target="_blank" rel="noopener"}
 
-- Arango-Gutiérrez A, Moreno S, Rondón M, et al (2023). Factors associated with suffering from dying in patients with cancer: a cross-sectional analytical study among bereaved caregivers. _BMC Palliat Care_ 2023;**22**:48. doi:[10.1186/s12904-023-01148-x](https://doi.org/10.1186/s12904-023-01148-x)
+- Moreno S, Medina-Rico M, Clavijo KO, Rodríguez NA, Jiménez VMV, Calvache JA, et al. End of Life in Patients With Advanced Non-curable Cancer: Patient Considerations Around the Moment of Death. _OMEGA-Journal of Death and Dying_. 2023;0(0):00302228231190240. doi: [10.1177/00302228231190240](https://doi.org/10.1177/00302228231190240){target="_blank" rel="noopener"}
 
 # 2022
 
-- Arroyo Castillo L, Arango-Gutiérrez A, De Vries E (2022). End of life of the cancer patient: patient, family and physician perceptions. _Colomb. J. Anesthesiol._ 2022;**50**:e1024. doi:[10.5554/22562087.e1024](https://doi.org/10.5554/22562087.e1024)
+- Arango-Gutiérrez A, Moreno S, Rondón M, Arroyo LI, Ardila L, Arenas FAL, et al. Factores asociados al sufrimiento de morir en pacientes con cáncer: un estudio analítico transversal entre cuidadores en duelo. _Boletín Epidemiológico Distrital-Bed_. 2022;19(8-12):54-57. [Ver publicación](https://revistas.saludcapital.gov.co/index.php/BED/article/download/74/67){target="_blank" rel="noopener"}
 
-- Medina-Rico M, Osorio Clavijo K, Rodríguez NA, Vicuña Jiménez VM, Leal F, Calvache JA, Moreno S, De Vries E (2022). Fin de vida en pacientes con cáncer no curable. Percepciones de los pacientes sobre el sistema de salud. _Rev Gerenc Polit Salud_ 2022;**21**. doi:[10.11144/Javeriana.rgps21.fvpc](https://doi.org/10.11144/Javeriana.rgps21.fvpc)
+- Castillo LA, Arango-Gutiérrez A, De Vries E. End of life of the cancer patient: patient, family and physician perceptions. _Colombian Journal of Anestesiology_. 2022;50(3). [Ver publicación](http://www.scielo.org.co/scielo.php?pid=S0120-33472022000300401&script=sci_arttext){target="_blank" rel="noopener"}
 
-- Arroyo LI, Ortega-Lenis D, Ardila L, Leal F, Morales O, Calvache JA, De Vries E (2022). Percepciones médicas sobre la atención en el final de la vida en pacientes oncológicos. _Rev Gerenc Polit Salud_ 2022;**21**. doi:[10.11144/Javeriana.rgps21.pmaf](https://doi.org/10.11144/Javeriana.rgps21.pmaf)
+- Arroyo LI, Ortega-Lenis D, Ardila L, Leal F, Morales O, Calvache JA, et al. Percepciones médicas sobre la atención en el final de la vida en pacientes oncológicos. _Rev Gerenc Polit Salud_. 2022;21. [Ver publicación](https://revistas.javeriana.edu.co/index.php/gerepolsal/article/view/33074/27366){target="_blank" rel="noopener"}
+
+- Medina-Rico M, Clavijo KO, Rodríguez NA, Jiménez VMV, Leal F, Calvache JA, et al. Fin de vida en pacientes con cáncer no curable. Percepciones de los pacientes sobre el sistema de salud. _Rev Gerenc Polit Salud_. 2022;21. [Ver publicación](https://www.redalyc.org/journal/545/54574701010/html/){target="_blank" rel="noopener"}
 
 # 2021
 
-- Diaz-Amado E, Calvache JA, de Vries E (2021). Pacientes y profesionales de la salud colombianos frente al final de la vida. _Rev. Fac. Cienc. Salud Univ. Cauca_ 2021;**23**:12-6. [URL](https://revistas.unicauca.edu.co/index.php/rfcs/article/view/2068)
+- Diaz-Amado E, Calvache JA, de Vries E. Pacientes y profesionales de la salud colombianos frente al final de la vida. _Revista de la Facultad de Ciencias de la Salud Universidad del Cauca_. 2021;23(2):12-16. [Ver publicación](https://revistas.unicauca.edu.co/index.php/rfcs/article/view/2068){target="_blank" rel="noopener"}
 
-- de Vries E, Leal Arenas FA, van der Heide A, et al (2021). Medical decisions concerning the end of life for cancer patients in three Colombian hospitals – a survey study. _BMC Palliat Care_ 2021;**20**:161. doi:[10.1186/s12904-021-00853-9](https://doi.org/10.1186/s12904-021-00853-9)
+- de Vries E, Arenas FAL, van der Heide A, Rueda FEG, Murillo R, Morales O, et al. Medical decisions concerning the end of life for cancer patients in three Colombian hospitals–a survey study. _BMC Palliative Care_. 2021;20:1-12. doi: [10.1186/s12904-021-00853-9](https://doi.org/10.1186/s12904-021-00853-9){target="_blank" rel="noopener"}
 
-- Reid J, de Vries E, Ahmedzai SH, Arias-Rojas M, Calvache JA, Gómez-Sarmiento SC, Gomez ML, Parra-Cubides SL, Prue G, Moreno S (2021). Palliative care and oncology in Colombia: the potential of integrated care delivery. _Healthcare_ 2021;**9**:789. doi:[10.3390/healthcare9070789](https://doi.org/10.3390/healthcare9070789)
+- Calvache JA, Moreno S, Prue G, Reid J, Ahmedzai SH, Arango-Gutierrez A, et al. Knowledge of end-of-life wishes by physicians and family caregivers in cancer patients. _BMC palliative care_. 2021;20:1-7. doi: [10.1186/s12904-021-00823-1](https://doi.org/10.1186/s12904-021-00823-1){target="_blank" rel="noopener"}
 
-- Calvache JA, Moreno S, Prue G, et al (2021). Knowledge of end-of-life wishes by physicians and family caregivers in cancer patients. _BMC Palliat Care_ 2021;**20**:140. doi:[10.1186/s12904-021-00823-1](https://doi.org/10.1186/s12904-021-00823-1)
+- Reid J, De Vries E, Ahmedzai SH, Arias-Rojas M, Calvache JA, Gómez-Sarmiento SC, et al. Palliative care and oncology in Colombia: the potential of integrated care delivery. _Healthcare_. 2021;9(7):789. [Ver publicación](https://www.mdpi.com/2227-9032/9/7/789){target="_blank" rel="noopener"}
 
-- Luna-Meza A, Godoy-Casasbuenas N, Calvache JA, et al (2021). Decision making in the end-of-life care of patients who are terminally ill with cancer – a qualitative descriptive study with a phenomenological approach from the experience of healthcare workers. _BMC Palliat Care_ 2021;**20**:76. doi:[10.1186/s12904-021-00768-5](https://doi.org/10.1186/s12904-021-00768-5)
+- de Vries E, Vergara-García OE, Karduss-Preciado S, Castro VB, Rodríguez SP, Forero MS, et al. The financial impact of a terminal cancer on patient′ s families in Colombia–A survey study. _Journal of Cancer Policy_. 2021;28:100272. [Ver publicación](https://www.sciencedirect.com/science/article/pii/S2213538321000035){target="_blank" rel="noopener"}
 
-- De Vries E, Vergara-García OE, Karduss-Preciado S, Baquero Castro V, Prieto Rodríguez S, Sánchez Forero M, et al (2021). The financial impact of a terminal cancer on patient′s families in Colombia – A survey study. _Journal of Cancer Policy_ 2021;**28**:100272. doi:[10.1016/j.jcpo.2021.100272](https://doi.org/10.1016/j.jcpo.2021.100272)
+- Luna-Meza A, Godoy-Casasbuenas N, Calvache JA, Díaz-Amado E, Rueda FEG, Morales O, et al. Decision making in the end-of-life care of patients who are terminally ill with cancer–a qualitative descriptive study with a phenomenological approach from the experience of healthcare workers. _BMC palliative care_. 2021;20(1):76. doi: [10.1186/s12904-021-00768-5](https://doi.org/10.1186/s12904-021-00768-5){target="_blank" rel="noopener"}
 
-- De Vries E, Velásquez M, Espejo A, Navarrete F, Robledo S, Salazar M, Baquero P, Buesaquillo C, Arango L, Burbano L, Andrade L, Calvache JA (2021). Conocimientos acerca de la eutanasia en estudiantes universitarios en dos instituciones de educación superior en Colombia. _Univ. Med._ 2021;**62**. [URL](https://revistas.javeriana.edu.co/index.php/vnimedica/article/view/31537)
+- De Vries E, Velásquez M, Espejo A, Navarrete F, Robledo S, Salazar M, et al. Conocimientos acerca de la eutanasia en estudiantes universitarios en dos instituciones de educación superior en Colombia. _Universitas Medica_. 2021;62(1). [Ver publicación](https://revistas.javeriana.edu.co/index.php/vnimedica/article/view/31537/25970){target="_blank" rel="noopener"}
 
 # 2020
 
-- Calvache JA, Gil F, de Vries E (2020). How many people need palliative care for cancer and non-cancer diseases in a middle-income country? Analysis of mortality data. _Colombian J Anesthesiol._ 2020;**48**. doi:[10.1097/CJ9.0000000000000159](https://doi.org/10.1097/CJ9.0000000000000159)
+- Calvache JA, Gil F, De Vries E. How many people need palliative care for cancer and non-cancer diseases in a middle-income country? Analysis of mortality data. _Colombian Journal of Anestesiology_. 2020;48(4). [Ver publicación](http://www.scielo.org.co/scielo.php?pid=S0120-33472020000400201&script=sci_arttext){target="_blank" rel="noopener"}
 
 # 2018
 
-- De Vries E, Buitrago G, Quitian H, Wiesner C, Castillo JS (2018). Access to cancer care in Colombia, a middle-income country with universal health coverage. _J Cancer Policy_ 2018;**15**:104–12. doi:[10.1016/j.jcpo.2018.01.003](https://doi.org/10.1016/j.jcpo.2018.01.003)
+- de Vries E, Buitrago G, Quitian H, Wiesner C, Castillo JS. Access to cancer care in Colombia, a middle-income country with universal health coverage. _Journal of cancer policy_. 2018;15:104-112. [Ver publicación](https://www.sciencedirect.com/science/article/pii/S2213538317300577){target="_blank" rel="noopener"}
 
-<!-- /references -->
+<!-- scholar:auto:end -->
 
 # Posters y presentaciones
 
@@ -89,7 +103,3 @@ title: Publicaciones
 - Valdivieso Y (2020). Factores asociados al lugar de muerte de personas con cáncer a partir de análisis de datos administrativos, 2014-2017, Colombia. _Estudio de investigación_ 2020. [URL][http://hdl.handle.net/10554/49892]
 
 - Luna Meza A (2020). Toma de decisiones prácticas médicas en el cuidado del final de la Vida del paciente terminal con cáncer: un abordaje desde la experiencia del personal de salud. _Pontificia Universidad Javeriana_ 2020. [URL][http://hdl.handle.net/10554/50644]
-
-
-
-<!-- references -->
