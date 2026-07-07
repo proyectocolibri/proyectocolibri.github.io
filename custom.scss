@@ -1,0 +1,260 @@
+/*-- scss:defaults --*/
+
+// Paleta inspirada en el colibrí: verde esmeralda del plumaje y el follaje,
+// magenta de las flores que visita, y dorado del brillo de sus plumas.
+$teal:      #0E7C7B !default;
+$magenta:   #D81B72 !default;
+$amber:     #F2A93B !default;
+$ink:       #0B2E33 !default;
+
+$primary:   $teal !default;
+$secondary: $magenta !default;
+$success:   #3F9142 !default;
+$info:      #2EC4B6 !default;
+$warning:   $amber !default;
+$danger:    #D7263D !default;
+
+$body-bg:    #FFFCF7 !default;
+$body-color: #26302F !default;
+
+$link-color: $magenta !default;
+
+$navbar-bg: $teal !default;
+$navbar-fg: #FFFFFF !default;
+$navbar-hl: $amber !default;
+
+$footer-bg: $ink !default;
+$footer-fg: #E9F3F2 !default;
+
+$headings-color: $ink !default;
+
+$h2-font-size: 1.75rem !default;
+$border-radius: 0.6rem !default;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+
+$grad-brand: linear-gradient(90deg, $teal 0%, $magenta 60%, $amber 100%);
+
+body {
+  background-image:
+    radial-gradient(circle at 8% 0%, rgba($teal, 0.06), transparent 40%),
+    radial-gradient(circle at 100% 15%, rgba($magenta, 0.06), transparent 35%);
+  background-attachment: fixed;
+}
+
+h1, h2, h3, h4, .navbar-title, .about-entity-name {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+}
+
+// Barra decorativa de degrade justo debajo del navbar
+.navbar {
+  border-bottom: 4px solid transparent;
+  border-image: $grad-brand 1;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+.navbar-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+// Encabezados de sección con acento de color a la izquierda
+h2 {
+  position: relative;
+  padding-left: 0.9rem;
+  margin-top: 2.2rem;
+  font-weight: 700;
+}
+
+h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  bottom: 0.15em;
+  width: 5px;
+  border-radius: 3px;
+  background: $grad-brand;
+}
+
+h3 {
+  font-weight: 700;
+  color: $teal;
+}
+
+// Enlaces con transición de color más viva
+a {
+  transition: color 0.15s ease-in-out;
+}
+
+a:hover {
+  color: $amber;
+}
+
+// Separadores de contenido (usados en people/ y papers/) con degradé de marca
+hr {
+  height: 3px;
+  border: 0;
+  border-radius: 3px;
+  background: $grad-brand;
+  opacity: 0.85;
+  margin: 2rem 0;
+}
+
+// Botones y enlaces "about" (about: trestles) más juguetones
+.about-link, .btn {
+  border-radius: 999px !important;
+  font-weight: 600;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.about-link:hover, .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba($teal, 0.25);
+}
+
+// Imagen principal del "about" (home) con marco de color y sombra
+.about-image {
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba($ink, 0.25);
+}
+
+// Fotos del equipo (people/) redondeadas con anillo de color
+.content .column img {
+  border-radius: 50%;
+  border: 4px solid $amber;
+  box-shadow: 0 4px 14px rgba($ink, 0.18);
+  width: 100%;
+  height: auto;
+  max-width: 170px;
+}
+
+// En pantallas angostas, apilar las columnas de foto+texto (equipo).
+// Quarto/bslib fuerza `.column { display:inline-block }` con el ancho
+// real fijado inline por Pandoc (style="width:30%"/"70%"), por lo que
+// hay que forzar bloque + 100% con !important para vencer ese estilo inline.
+@media (max-width: 767px) {
+  .content .column {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .content .column img {
+    margin: 0 auto 1rem;
+    display: block;
+  }
+}
+
+// Bloques de código y citas con un toque de color
+blockquote {
+  border-left: 4px solid $magenta;
+  background: rgba($magenta, 0.05);
+  padding: 0.6rem 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+// Pie de página
+.footer {
+  border-top: 4px solid transparent;
+  border-image: $grad-brand 1;
+}
+
+.footer a {
+  color: $amber;
+}
+
+// Logo en la navbar (Quarto lo deja muy pequeño por defecto)
+.navbar-logo {
+  max-height: 38px !important;
+  min-height: 38px !important;
+  height: 38px !important;
+  width: 38px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.7);
+  margin-right: 0.6rem !important;
+}
+
+// Grilla de videos (videos-podcast/)
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.75rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.video-card h4 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: 1.05rem;
+  color: $teal;
+}
+
+.video-card .ratio {
+  border-radius: 0.85rem;
+  overflow: hidden;
+  box-shadow: 0 8px 22px rgba($ink, 0.2);
+}
+
+// Reproductor de Spreaker (podcast) con un poco de aire y sombra
+a.spreaker-player {
+  display: block;
+  margin: 0.5rem 0 1.5rem;
+  border-radius: 0.6rem;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba($ink, 0.15);
+}
+
+// Tarjetas de listados (talks/ y media/)
+.quarto-post {
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid rgba($ink, 0.08);
+  transition: transform 0.15s ease;
+}
+
+.quarto-post:hover {
+  transform: translateY(-2px);
+}
+
+.quarto-post .thumbnail img,
+.quarto-post .thumbnail-image {
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 20px rgba($ink, 0.18);
+}
+
+.quarto-post .listing-title {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  font-weight: 700;
+  color: $ink;
+}
+
+.quarto-post .listing-title a {
+  color: inherit;
+}
+
+.listing-category {
+  background: rgba($teal, 0.1);
+  color: $teal;
+  border: 1px solid rgba($teal, 0.3);
+  border-radius: 999px;
+  padding: 0.15rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0.15rem 0.3rem 0.15rem 0;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.listing-category:hover {
+  background: rgba($amber, 0.25);
+  color: $ink;
+}
+
+.listing-date {
+  color: $magenta;
+  font-weight: 600;
+}

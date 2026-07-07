@@ -1,16 +1,10 @@
 [
   {
     "listing": "/talks/index.html",
-    "items": [
-      "/talks/prometheus-unbound/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/media/index.html",
-    "items": [
-      "/media/tech-for-good/index.html",
-      "/media/fr-disinfectants/index.html",
-      "/media/euronews-covid/index.html"
-    ]
+    "items": []
   }
 ]

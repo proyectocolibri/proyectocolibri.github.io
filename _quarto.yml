@@ -3,16 +3,18 @@ project:
   output-dir: .
 
   #pre-render:
+    # - scripts/pre_fetch_scholar_papers.py
     # - scripts/pre_create_papers_file.py
     # - scripts/pre_check_skierg_records.py
     # - scripts/pre_doi_from_rogue_scholar.py
     # - scripts/pre_canonicalise_tags.py
-    
+
 website:
   title: "Proyecto Colibrí"
   description: "Sitio web del Proyecto Colibrí"
   site-url: https://github.com/proyectocolibri/proyectocolibri.github.io
   navbar:
+    logo: img/colibri-navbar-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -20,9 +22,11 @@ website:
         text: Nuestro equipo
       - href: papers
         text: Publicaciones
+      - href: videos-podcast
+        text: Videos & Podcast
       - href: teaching
         text: Enlaces de interes
-      - href: talks and presentations
+      - href: talks
         text: Presentaciones
       
   page-footer:
