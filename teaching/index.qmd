@@ -2,12 +2,30 @@
 title: "Enlaces de interes"
 ---
 
-* IKyowa Kirin Hub. Este sitio contiene una variedad de materiales para ayudar a los profesionales de la salud. Estos recursos médicos gratuitos en línea incluyen descripciones generales de áreas de terapia específicas, materiales de diagnóstico y pautas de tratamiento. https://www.kyowakirinhub.com/en-gb/
+Una selección de recursos, organizaciones y guías sobre cuidados paliativos y decisiones al final de la vida, tanto de nuestros aliados como de referentes internacionales en el área.
 
-* Overcare. Es la primera plataforma que gestiona íntegramente la terapéutica, el diagnóstico y las intervenciones en el Cuidado de la Salud a Domicilio en tiempo real, módulo especialista en Cuidados Paliativos. https://www.kyowakirinhub.com/en-gb/
+## Recursos y aliados del Proyecto Colibrí
 
-* Latam Change Pain. los profesionales de la salud trabajan en ambientes de constante evolución, donde es crítico mantenerse actualizado sobre las más recientes innovaciones en medicina y donde; además, es necesario que continuamente mantengan y mejoren su conocimiento médico. Change Pain provee a los profesionales de la salud un programa completo de educación en dolor. https://www.latamchangepain.com/es/cursos-virtuales/
+* **Kyowa Kirin Hub.** Este sitio contiene una variedad de materiales para ayudar a los profesionales de la salud. Estos recursos médicos gratuitos en línea incluyen descripciones generales de áreas de terapia específicas, materiales de diagnóstico y pautas de tratamiento. [kyowakirinhub.com](https://www.kyowakirinhub.com/en-gb/)
 
-* DescLAB. Laboratorio de Derechos Económicos, Sociales y Culturales. Toda la información y recursos sobre muerte digna y eutanasia en Colombia https://www.desclab.com
+* **Overcare.** Es la primera plataforma que gestiona íntegramente la terapéutica, el diagnóstico y las intervenciones en el Cuidado de la Salud a Domicilio en tiempo real, módulo especialista en Cuidados Paliativos. [kyowakirinhub.com](https://www.kyowakirinhub.com/en-gb/)
 
-* PCRN & ECRF Webinars, Podcasts and Blogs. Esta página contiene enlaces a seminarios web, podcasts y artículos de blogs producidos por miembros de la Red de investigación de cuidados paliativos de AIIHPC (PCRN) y del Foro de investigadores de carrera temprana (ECRF). http://www.professionalpalliativehub.com/research/webinar-blog#3
+* **Latam Change Pain.** Los profesionales de la salud trabajan en ambientes de constante evolución, donde es crítico mantenerse actualizado sobre las más recientes innovaciones en medicina y donde, además, es necesario que continuamente mantengan y mejoren su conocimiento médico. Change Pain provee a los profesionales de la salud un programa completo de educación en dolor. [latamchangepain.com](https://www.latamchangepain.com/es/cursos-virtuales/)
+
+* **DescLAB — Laboratorio de Derechos Económicos, Sociales y Culturales.** Toda la información y recursos sobre muerte digna y eutanasia en Colombia. [desclab.com](https://www.desclab.com)
+
+* **PCRN & ECRF Webinars, Podcasts and Blogs.** Esta página contiene enlaces a seminarios web, podcasts y artículos de blogs producidos por miembros de la Red de investigación de cuidados paliativos de AIIHPC (PCRN) y del Foro de investigadores de carrera temprana (ECRF). [professionalpalliativehub.com](http://www.professionalpalliativehub.com/research/webinar-blog#3)
+
+## Organizaciones y guías internacionales en cuidados paliativos
+
+* **OMS — Cuidados paliativos (nota descriptiva).** Ficha informativa de la Organización Mundial de la Salud que define los cuidados paliativos como el enfoque para mejorar la calidad de vida de pacientes y familias frente a enfermedades que amenazan la vida. Presenta cifras globales — cerca de 56,8 millones de personas necesitan cuidados paliativos cada año y solo alrededor del 14% los recibe — y hace un llamado a integrarlos en los sistemas nacionales de salud, desde la atención primaria hasta los servicios especializados. [who.int](https://www.who.int/news-room/fact-sheets/detail/palliative-care)
+
+* **Usher Institute — Primary Palliative Care Research Group (University of Edinburgh).** Grupo de investigación multidisciplinario que estudia la provisión de cuidados paliativos en el ámbito comunitario y de atención primaria. Desarrolla herramientas de uso clínico como el SPICT (Supportive & Palliative Care Indicators Tool) y el EAPC-WONCA Toolkit para identificar pacientes que requieren cuidados paliativos y facilitar la planificación anticipada de la atención, además de videos educativos y publicaciones de investigación. [usher.ed.ac.uk](https://usher.ed.ac.uk/primary-palliative-care)
+
+* **Asociación Latinoamericana de Cuidados Paliativos (ALCP).** Organización no gubernamental que reúne a profesionales e interesados en cuidados paliativos de la región. Impulsa el desarrollo de la disciplina mediante comisiones de trabajo, congresos internacionales y programas educativos, y ofrece una biblioteca digital con publicaciones como el Atlas de Cuidados Paliativos, manuales sobre uso de opioides, videos y boletines informativos. [cuidadospaliativos.org](https://cuidadospaliativos.org/)
+
+* **International Observatory on End of Life Care (IOELC) — Lancaster University.** Centro de investigación de la Facultad de Salud y Medicina de Lancaster University dedicado a la investigación y la formación en cuidados paliativos y de fin de vida. Ofrece programas de doctorado en la materia, módulos de formación en línea y coordina una red internacional de más de 560 investigadores interesados en el fin de vida. [lancaster.ac.uk](https://www.lancaster.ac.uk/health-and-medicine/research/ioelc/)
+
+* **Center to Advance Palliative Care (CAPC).** Organización sin ánimo de lucro de la Icahn School of Medicine at Mount Sinai (EE. UU.) que brinda herramientas, entrenamiento y asistencia técnica a clínicos que atienden pacientes con enfermedades graves. Ofrece cursos clínicos en línea con créditos de educación continua, kits de implementación listos para usar, webinars y una bolsa de empleo, con membresías activas en más de 1.700 organizaciones. [capc.org](https://www.capc.org/)
+
+* **European Association for Palliative Care (EAPC).** Asociación europea de profesionales dedicada a promover y desarrollar los cuidados paliativos en Europa. Publica investigaciones, informes técnicos ("white papers") y un atlas anual sobre el estado de los cuidados paliativos, organiza congresos internacionales y coordina grupos de trabajo especializados y proyectos de investigación financiados por la Unión Europea. [eapcnet.eu](https://eapcnet.eu/)

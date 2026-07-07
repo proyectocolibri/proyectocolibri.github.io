@@ -1,0 +1,96 @@
+---
+title: "Videos & Podcast"
+---
+
+Contenido en video y podcast del **Proyecto Colibrí**, dirigido a profesionales de la salud, pacientes, familiares y cuidadores, sobre cuidados paliativos y decisiones al final de la vida.
+
+## Campaña "El final de la vida"
+
+Este espacio comparte con personal médico que atiende a pacientes con enfermedad avanzada o en el final de la vida, información para mejorar la calidad del cuidado durante los últimos días, mediante una serie de podcasts. Toda la campaña está alojada en [Spreaker](https://www.spreaker.com/user/15789590).
+
+### Podcast
+
+**Episodio 1.** Cómo tomar las mejores decisiones cuando un paciente está al final de su vida
+
+```{=html}
+<a class="spreaker-player" href="https://www.spreaker.com/user/15789590/episodio-1-el-final-de-la-vida" data-resource="episode_id=48032158" data-theme="light" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/4f25d41dbcb136358ea2ccf346e8798c.jpg" data-width="100%" data-height="150px">Escucha "Episodio 1 - Cómo tomar las mejores decisiones cuando un paciente está al final de su vida" en Spreaker.</a>
+```
+
+**Episodio 2.** Cómo atender a los pacientes en el final de la vida
+
+```{=html}
+<a class="spreaker-player" href="https://www.spreaker.com/user/15789590/episodio-2-el-final-de-la-vida" data-resource="episode_id=48032348" data-theme="light" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/d330bffe71bf947b3b3084abff0b7181.jpg" data-width="100%" data-height="150px">Escucha "Episodio 2 - Cómo atender a los pacientes al final de la vida" en Spreaker.</a>
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+```
+
+### Videos
+
+::: {.video-grid}
+
+::: {.video-card}
+#### Video 1. Proyecto Colibrí. Hablemos de la muerte
+{{< video https://www.youtube.com/embed/bELAl0rkQA4 >}}
+:::
+
+::: {.video-card}
+#### Video 2. ¿Por qué hablar sobre deseos, final de vida y la muerte con nuestros pacientes?
+{{< video https://www.youtube.com/embed/tEDFUeadI4A >}}
+:::
+
+::: {.video-card}
+#### Video 3. El Proyecto Colibrí
+{{< video https://www.youtube.com/embed/4dB-4oyJ4xo >}}
+:::
+
+::: {.video-card}
+#### Video 4. Mi cáncer ya no se puede curar. ¿Qué va a pasar y qué puedo esperar?
+{{< video https://www.youtube.com/embed/mkHFY5LxM58 >}}
+:::
+
+::: {.video-card}
+#### Video 5. ¿Ayudo a mi paciente en la toma de decisiones y respeto sus voluntades?
+{{< video https://www.youtube.com/embed/3kfI12iApdQ >}}
+:::
+
+:::
+
+## Cuidados paliativos — profesionales de la salud
+
+Videos dirigidos a médicos y personal de la salud sobre qué son los cuidados paliativos y cómo evaluar las necesidades de los pacientes.
+
+::: {.video-grid}
+
+::: {.video-card}
+#### Video 1. ¿Qué son los Cuidados Paliativos?
+{{< video https://www.youtube.com/embed/YGsxG4TK3Pk >}}
+:::
+
+::: {.video-card}
+#### Video 2. ¿Quién hace cuidados paliativos? y la importancia de las necesidades holísticas
+{{< video https://www.youtube.com/embed/gLnPj9_wOks >}}
+:::
+
+::: {.video-card}
+#### Video 3. La herramienta SPARC para profesionales de la salud
+{{< video https://www.youtube.com/embed/Wiffkw4Jao0 >}}
+:::
+
+:::
+
+## Cuidados paliativos — pacientes y cuidadores
+
+Videos pensados para pacientes, familiares y cuidadores, con un lenguaje más cercano sobre qué son los cuidados paliativos y para qué sirve la herramienta SPARC.
+
+::: {.video-grid}
+
+::: {.video-card}
+#### Video 1. ¿Qué son los Cuidados Paliativos?
+{{< video https://www.youtube.com/embed/Nk5r2zMPKgU >}}
+:::
+
+::: {.video-card}
+#### Video 2. La herramienta SPARC para pacientes y cuidadores
+{{< video https://www.youtube.com/embed/Uoawy0y8O7g >}}
+:::
+
+:::

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Presentaciones – Proyecto Colibrí</title>
+<title>Videos &amp; Podcast – Proyecto Colibrí</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -72,70 +70,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="Proyecto Colibrí" href="index.xml" data-external="1"><meta property="og:title" content="Presentaciones – Proyecto Colibrí">
+<meta property="og:title" content="Videos &amp; Podcast – Proyecto Colibrí">
 <meta property="og:description" content="Sitio web del Proyecto Colibrí">
 <meta property="og:site_name" content="Proyecto Colibrí">
-<meta name="twitter:title" content="Presentaciones – Proyecto Colibrí">
+<meta name="twitter:title" content="Videos &amp; Podcast – Proyecto Colibrí">
 <meta name="twitter:description" content="Sitio web del Proyecto Colibrí">
 <meta name="twitter:card" content="summary">
 </head>
@@ -193,23 +133,35 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#campaña-el-final-de-la-vida" id="toc-campaña-el-final-de-la-vida" class="nav-link active" data-scroll-target="#campaña-el-final-de-la-vida">Campaña “El final de la vida”</a>
+  <ul class="collapse">
+  <li><a href="#podcast" id="toc-podcast" class="nav-link" data-scroll-target="#podcast">Podcast</a></li>
+  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
+  </ul></li>
+  <li><a href="#cuidados-paliativos-profesionales-de-la-salud" id="toc-cuidados-paliativos-profesionales-de-la-salud" class="nav-link" data-scroll-target="#cuidados-paliativos-profesionales-de-la-salud">Cuidados paliativos — profesionales de la salud</a></li>
+  <li><a href="#cuidados-paliativos-pacientes-y-cuidadores" id="toc-cuidados-paliativos-pacientes-y-cuidadores" class="nav-link" data-scroll-target="#cuidados-paliativos-pacientes-y-cuidadores">Cuidados paliativos — pacientes y cuidadores</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Presentaciones</h1>
+<h1 class="title">Videos &amp; Podcast</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -221,17 +173,80 @@ window.Quarto = {
 </header>
 
 
-<p>Próximamente: presentaciones y charlas del equipo del Proyecto Colibrí.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
+<p>Contenido en video y podcast del <strong>Proyecto Colibrí</strong>, dirigido a profesionales de la salud, pacientes, familiares y cuidadores, sobre cuidados paliativos y decisiones al final de la vida.</p>
+<section id="campaña-el-final-de-la-vida" class="level2">
+<h2 class="anchored" data-anchor-id="campaña-el-final-de-la-vida">Campaña “El final de la vida”</h2>
+<p>Este espacio comparte con personal médico que atiende a pacientes con enfermedad avanzada o en el final de la vida, información para mejorar la calidad del cuidado durante los últimos días, mediante una serie de podcasts. Toda la campaña está alojada en <a href="https://www.spreaker.com/user/15789590">Spreaker</a>.</p>
+<section id="podcast" class="level3">
+<h3 class="anchored" data-anchor-id="podcast">Podcast</h3>
+<p><strong>Episodio 1.</strong> Cómo tomar las mejores decisiones cuando un paciente está al final de su vida</p>
+<a class="spreaker-player" href="https://www.spreaker.com/user/15789590/episodio-1-el-final-de-la-vida" data-resource="episode_id=48032158" data-theme="light" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/4f25d41dbcb136358ea2ccf346e8798c.jpg" data-width="100%" data-height="150px">Escucha "Episodio 1 - Cómo tomar las mejores decisiones cuando un paciente está al final de su vida" en Spreaker.</a>
+<p><strong>Episodio 2.</strong> Cómo atender a los pacientes en el final de la vida</p>
+<a class="spreaker-player" href="https://www.spreaker.com/user/15789590/episodio-2-el-final-de-la-vida" data-resource="episode_id=48032348" data-theme="light" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/d330bffe71bf947b3b3084abff0b7181.jpg" data-width="100%" data-height="150px">Escucha "Episodio 2 - Cómo atender a los pacientes al final de la vida" en Spreaker.</a>
+<script async="" src="https://widget.spreaker.com/widgets.js"></script>
+</section>
+<section id="videos" class="level3">
+<h3 class="anchored" data-anchor-id="videos">Videos</h3>
+<div class="video-grid">
+<section id="video-1.-proyecto-colibrí.-hablemos-de-la-muerte" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-1.-proyecto-colibrí.-hablemos-de-la-muerte">Video 1. Proyecto Colibrí. Hablemos de la muerte</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/bELAl0rkQA4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-2.-por-qué-hablar-sobre-deseos-final-de-vida-y-la-muerte-con-nuestros-pacientes" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-2.-por-qué-hablar-sobre-deseos-final-de-vida-y-la-muerte-con-nuestros-pacientes">Video 2. ¿Por qué hablar sobre deseos, final de vida y la muerte con nuestros pacientes?</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/tEDFUeadI4A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-3.-el-proyecto-colibrí" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-3.-el-proyecto-colibrí">Video 3. El Proyecto Colibrí</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/4dB-4oyJ4xo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-4.-mi-cáncer-ya-no-se-puede-curar.-qué-va-a-pasar-y-qué-puedo-esperar" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-4.-mi-cáncer-ya-no-se-puede-curar.-qué-va-a-pasar-y-qué-puedo-esperar">Video 4. Mi cáncer ya no se puede curar. ¿Qué va a pasar y qué puedo esperar?</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/mkHFY5LxM58" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-5.-ayudo-a-mi-paciente-en-la-toma-de-decisiones-y-respeto-sus-voluntades" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-5.-ayudo-a-mi-paciente-en-la-toma-de-decisiones-y-respeto-sus-voluntades">Video 5. ¿Ayudo a mi paciente en la toma de decisiones y respeto sus voluntades?</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3kfI12iApdQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</section>
+</section>
+<section id="cuidados-paliativos-profesionales-de-la-salud" class="level2">
+<h2 class="anchored" data-anchor-id="cuidados-paliativos-profesionales-de-la-salud">Cuidados paliativos — profesionales de la salud</h2>
+<p>Videos dirigidos a médicos y personal de la salud sobre qué son los cuidados paliativos y cómo evaluar las necesidades de los pacientes.</p>
+<div class="video-grid">
+<section id="video-1.-qué-son-los-cuidados-paliativos" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-1.-qué-son-los-cuidados-paliativos">Video 1. ¿Qué son los Cuidados Paliativos?</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YGsxG4TK3Pk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-2.-quién-hace-cuidados-paliativos-y-la-importancia-de-las-necesidades-holísticas" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-2.-quién-hace-cuidados-paliativos-y-la-importancia-de-las-necesidades-holísticas">Video 2. ¿Quién hace cuidados paliativos? y la importancia de las necesidades holísticas</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/gLnPj9_wOks" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-3.-la-herramienta-sparc-para-profesionales-de-la-salud" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-3.-la-herramienta-sparc-para-profesionales-de-la-salud">Video 3. La herramienta SPARC para profesionales de la salud</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Wiffkw4Jao0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</div>
+</section>
+<section id="cuidados-paliativos-pacientes-y-cuidadores" class="level2">
+<h2 class="anchored" data-anchor-id="cuidados-paliativos-pacientes-y-cuidadores">Cuidados paliativos — pacientes y cuidadores</h2>
+<p>Videos pensados para pacientes, familiares y cuidadores, con un lenguaje más cercano sobre qué son los cuidados paliativos y para qué sirve la herramienta SPARC.</p>
+<div class="video-grid">
+<section id="video-1.-qué-son-los-cuidados-paliativos-1" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-1.-qué-son-los-cuidados-paliativos-1">Video 1. ¿Qué son los Cuidados Paliativos?</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Nk5r2zMPKgU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="video-2.-la-herramienta-sparc-para-pacientes-y-cuidadores" class="level4 video-card">
+<h4 class="anchored" data-anchor-id="video-2.-la-herramienta-sparc-para-pacientes-y-cuidadores">Video 2. La herramienta SPARC para pacientes y cuidadores</h4>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Uoawy0y8O7g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
